@@ -3,5 +3,5 @@ This project aims to recognize texts in imaged documents with Tesseract OCR. Dif
 
 The highest accuracy achieved is around 85% at word level. This is produced by adaptive thresholding, sharpening filter and Gaussian blurring filter.  
 
-The complete codes and output can be found in ["Text_segmentation.ipynb"], and the generated images are in ["/Figures"](https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/tree/main/Figures) folder.  
+The complete codes and output can be found in ["Text_segmentation.ipynb"](https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Text_Segmentation.ipynb), and the generated images are in ["/Figures"](https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/tree/main/Figures) folder.  
 
