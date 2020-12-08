@@ -26,7 +26,7 @@ After:
 <img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Figures/sample02_filter.png" width = 450 height = 650>  
 
 Output:  
-<img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Figures/sample02_output.png" width = 550 height = 300>   
+<img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Figures/sample02_output.png" width = 580 height = 300>   
 
 The complete codes and output can be found in ["Text_segmentation.ipynb"](https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Text_Segmentation.ipynb), and the generated images are in ["/Figures"](https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/tree/main/Figures) folder.  
 
