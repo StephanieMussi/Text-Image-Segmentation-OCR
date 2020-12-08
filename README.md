@@ -3,5 +3,27 @@ This project aims to recognize texts in imaged documents with Tesseract OCR. Dif
 
 The highest accuracy achieved is around 85% at word level. This is produced by adaptive thresholding, sharpening filter and Gaussian blurring filter.  
 
+__sample01.png__  
+
+Before:  
+<img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/sample01.png" width = 483 height = 115>  
+
+After:  
+<img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Figures/sample01_at.png" width = 483 height = 115>  
+
+Output:  
+Parking: You may park anywhere on the campus where there are no signs prohibiting par- king. Keep in mind the carpool hours and park accordingly so you do not get blocked in the afternoon  
+
+Under Schoo! Age Children:While we love the younger children, it can be disruptive and inappropriate to have them on campus during schoo! hours. There may be special times that they may be invited or can accompany a parent volunteer, but otherwise we ask that you adhere to our —_ policy for the benefit of the students and staff.  
+
+
+__sample02.png__  
+
+Before:  
+<img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/sample02.png" width = 589 height = 782>  
+
+After:  
+<img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Figures/sample02_at.png" width = 483 height = 115>  
+
 The complete codes and output can be found in ["Text_segmentation.ipynb"](https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Text_Segmentation.ipynb), and the generated images are in ["/Figures"](https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/tree/main/Figures) folder.  
 
