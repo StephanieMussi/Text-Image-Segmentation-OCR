@@ -12,9 +12,7 @@ After:
 <img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Figures/sample01_at.png" width = 483 height = 115>  
 
 Output:  
-Parking: You may park anywhere on the campus where there are no signs prohibiting par- king. Keep in mind the carpool hours and park accordingly so you do not get blocked in the afternoon  
-
-Under Schoo! Age Children:While we love the younger children, it can be disruptive and inappropriate to have them on campus during schoo! hours. There may be special times that they may be invited or can accompany a parent volunteer, but otherwise we ask that you adhere to our —_ policy for the benefit of the students and staff.  
+<img src = "https://github.com/StephanieMussi/Text_Image_Segmentation_OCR/blob/main/Figures/sample01_output.png" width = 500 height = 200>   
 
 
 __sample02.png__  
